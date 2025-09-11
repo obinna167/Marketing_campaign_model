@@ -1,0 +1,4 @@
+# Ignore virtual environments
+bank-model-env/
+venv/
+.env/
